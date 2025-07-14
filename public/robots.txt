@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://surya-purohit.github.io/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 1
+
+# Specific instructions for search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Slurp
+Allow: /
